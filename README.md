@@ -1,9 +1,9 @@
-## Hey there! I'm Lotus 🌸
+## Hey there! I'm Lotus 
 
-Welcome to my GitHub! I'm just a guy who loves coding, AI, gaming, and all things tech. I spend most of my time working on cool projects, messing around with code, and keeping my server **Gamers World** alive (because childhood dreams matter, right?).
+Welcome to my GitHub! I'm just a guy who loves coding, AI, gaming, and all things tech. I spend most of my time working on cool projects, messing around with code and stuff like that
 
 ### ✨ About Me
-- 📚 **Name:** Lotus (also known as Military Lotus)
+- 📚 **Name:** Lotus (also known as MilitaryLotus, dtester)
 - 💻 **Interests:** AI, coding, Minecraft modding, and making Discord bots for fun
 - 🎮 **Gaming:** Big fan of **Minecraft** and always down for a good game
 - 🎥 **Movies & Anime:** Love sci-fi action with twists of romance & mystery
