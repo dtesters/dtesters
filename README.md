@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm just a guy who loves coding, AI, gaming, and all thing
 ### ⚙️ What I Do
 - 📝 **Coding Stuff:** Creating Discord bots, coding Minecraft mods, and working on random projects that interest me
 - 🎨 **Creative Chaos:** I enjoy mixing different ideas into something unique (sci-fi action + deep character arcs = yes, please and its AI)
-- 🛠️ **Server Stuff:** Trying my best to keep my server, GamersWorld alive & running smoothly
+- 🛠️ **Server Stuff:** Trying my best to keep my server, GamersWorld alive & running smoothly and i'm a mod for some servers
 
 ### ✨ Currently Working On
 - A new **Discord bot** project
