@@ -11,9 +11,8 @@ Welcome to my GitHub! I'm just a guy who loves coding, AI, gaming, and all thing
 
 ### ⚙️ What I Do
 - 📝 **Coding Stuff:** Creating Discord bots, coding Minecraft mods, and working on random projects that interest me
-- ✨ **Worldbuilding:** Dreaming up anime-inspired worlds that blend **Sword Art Online** and **Guilty Crown** vibes
-- 🎨 **Creative Chaos:** I enjoy mixing different ideas into something unique (sci-fi action + deep character arcs = yes, please)
-- 🛠️ **Server Stuff:** Trying my best to keep Gamers World alive & running smoothly
+- 🎨 **Creative Chaos:** I enjoy mixing different ideas into something unique (sci-fi action + deep character arcs = yes, please and its AI)
+- 🛠️ **Server Stuff:** Trying my best to keep my server, GamersWorld alive & running smoothly
 
 ### ✨ Currently Working On
 - A new **Discord bot** project
