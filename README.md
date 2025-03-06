@@ -22,8 +22,5 @@ Welcome to my GitHub! I'm just a guy who loves coding, AI, gaming, and all thing
 - **Discord:** My username is [dtester](https://discord.com/users/591534252307513347)
 - **Spotify:** I have it on my Discord conencctions
 
-Feel free to check out my repos, hit me up if you wanna collab, or just say hi! 
+Feel free to add me, hit me up if you wanna collab (im not that good at coding but yeah), or just say hi! 
 
----
-
-**PS:** Yes, I overthink things a lot, but hey, that just means I care. 😅
