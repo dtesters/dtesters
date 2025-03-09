@@ -1,5 +1,5 @@
 ## Hey there! I'm Lotus 
-![Discord Activity Card](http://api.dtester.xyz:3003/v2/card/user/591534252307513347?width=900&height=100)
+![Discord Activity Card](http://api.dtester.xyz:3003/v2/card/user/591534252307513347)
 Welcome to my GitHub! I'm just a guy who loves coding, AI, gaming, and all things tech. I spend most of my time working on cool projects, messing around with code and stuff like that
 
 ### ✨ About Me
