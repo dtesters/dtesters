@@ -1,7 +1,7 @@
 ## Hey there! I'm Lotus 
 ![Discord Activity Card](http://api.dtester.xyz:3003/v2/card/user/591534252307513347?withoutbanner=true)
 Welcome to my GitHub! I'm just a guy who loves coding, AI, gaming, and all things tech. I spend most of my time working on cool projects, messing around with code and stuff like that
-![Stats](github-readme-stats.vercel.app/api?username=dtesters&show_icons=true&theme=blue_navy)
+![Stats](https://github-readme-stats.vercel.app/api?username=dtesters&show_icons=true&theme=blue_navy)
 ### ✨ About Me
 - 📚 **Name:** Lotus (also known as MilitaryLotus, dtester)
 - 💻 **Interests:** AI, coding, Minecraft modding, and making Discord bots for fun
