@@ -2,8 +2,13 @@ name: Update Discord Card
 
 on:
   schedule:
+    # This runs the action every 5 minutes
     - cron: '*/5 * * * *'
   workflow_dispatch:
+
+# This block gives the workflow permission to write to your repository
+permissions:
+  contents: write
 
 jobs:
   update:
