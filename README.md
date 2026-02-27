@@ -1,6 +1,6 @@
 ## Hey there! I'm Lotus 
 ![Profile](https://my-profile-card-murex.vercel.app/api/card)
-![DiscordProfile](https://my-profile-card-murex.vercel.app/api/discord?v=1772214439)
+![DiscordProfile](https://my-profile-card-murex.vercel.app/api/discord?v=1772216503)
 ![Stats](https://github-readme-stats.vercel.app/api?username=dtesters&show_icons=true&theme=blue_navy)
 
 
