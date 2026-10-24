@@ -1,11 +1,22 @@
-## Hey there! I'm Lotus  
+## Hey there! I'm Lotus
+
 [My Personal account](https://github.com/Movryn)
 
 <details>
 <summary>View Cards</summary>
-![Profile](https://my-profile-card-murex.vercel.app/api/card)
-![DiscordProfile](https://my-profile-card-murex.vercel.app/api/discord?v=1792823586)
-![Stats](https://github-readme-stats.vercel.app/api?username=dtesters&show_icons=true&theme=blue_navy)
+
+<p>
+  <img src="https://my-profile-card-murex.vercel.app/api/card" alt="Profile" />
+</p>
+
+<p>
+  <img src="https://my-profile-card-murex.vercel.app/api/discord?v=1792823586" alt="Discord Profile" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dtesters&amp;show_icons=true&amp;theme=blue_navy" alt="GitHub Stats" />
+</p>
+
 </details>
 
 ### 👀 Find Me Elsewhere
