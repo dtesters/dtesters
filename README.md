@@ -1,6 +1,6 @@
 ## Hey there! I'm Lotus
 
-[My Personal account](https://github.com/Movryn)
+Personal account [Movryn](https://github.com/Movryn)
 
 <details>
 <summary>View Cards</summary>
