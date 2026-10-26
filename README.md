@@ -10,7 +10,7 @@ Personal account [Movryn](https://github.com/Movryn)
 </p>
 
 <p>
-  <img src="https://my-profile-card-murex.vercel.app/api/discord?v=1793033833" alt="Discord Profile" />
+  <img src="https://my-profile-card-murex.vercel.app/api/discord?v=1793050043" alt="Discord Profile" />
 </p>
 
 <p>
